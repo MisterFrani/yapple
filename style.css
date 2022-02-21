@@ -184,7 +184,6 @@ input:focus {
   align-items: center;
   padding: 0.625rem 1.5625rem;
   text-decoration: none;
-  border: 0.0625rem solide black;
   position: fixed;
   bottom: 4%;
   left: 4%;
